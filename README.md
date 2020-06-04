@@ -1,3 +1,3 @@
-# Anonymous Chat using Pusher
+# Anonymous Chat
 
 * run via `npm start`
